@@ -1,0 +1,23 @@
+{
+  "name": "the-lazy-payoff",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Local-first AI productivity assistant that turns messy brain dumps into organized action plans using Gemma 3 4B through Ollama.",
+  "scripts": {
+    "server": "npm --prefix server start",
+    "server:dev": "npm --prefix server run dev",
+    "client": "npm --prefix client run dev",
+    "build:client": "npm --prefix client run build",
+    "test:server": "npm --prefix server test"
+  },
+  "keywords": [
+    "ollama",
+    "gemma3",
+    "local-ai",
+    "productivity",
+    "hacktoberfest",
+    "devchallenge",
+    "hf26challenge"
+  ],
+  "license": "MIT"
+}

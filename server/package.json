@@ -1,0 +1,20 @@
+{
+  "name": "the-lazy-payoff-server",
+  "version": "1.0.0",
+  "description": "Local-first AI productivity assistant backend powered by Ollama and Gemma 3 4B",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "test": "node --test"
+  },
+  "keywords": ["ollama", "gemma3", "ai", "productivity", "local-ai", "hacktoberfest"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
