@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🦥 The Lazy Payoff — Let AI Handle the Boring Stuff
 
 > **Built for Hacktoberfest 2026 Open-Source AI Challenge**  
@@ -289,3 +290,6 @@ All inference runs on-device through Ollama using Google's `gemma3:4b` open-weig
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
+=======
+# lazyPayOff
+>>>>>>> 5a2647b0ef9010a163309a29705052efb3774ab7
